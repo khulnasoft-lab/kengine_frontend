@@ -1,4 +1,4 @@
-FROM nginx:1.23-alpine
+FROM nginx:1.27-alpine
 MAINTAINER KhulnaSoft Ltd
 LABEL kengine.role=system
 
